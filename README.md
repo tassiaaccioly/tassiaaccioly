@@ -25,10 +25,10 @@ Hi! My name is Tassia and for a long time I've wanted to start programming. This
 I've always been a person that if I didn't know how to make something :mag: I'd find out how to do it, so programming has been a perfect fit for me.
 
 
-:mortar_board: I have a bachelor's degree on Movies and Audiovisual Studies :movie_camera: and previously was working as an assistant director, so naturally when I came to programming I wanted to be on the more narrative side of things, so my focus is to learn game development languages :video_game: in the future and enter the games and interactive media industry.
+:mortar_board: I have a bachelor's degree on Movies and Audiovisual Studies :movie_camera:  and previously was working as an assistant director, so naturally when I came to programming I wanted to be on the more narrative side of things, so my focus is to learn game development languages :video_game:  in the future and enter the games and interactive media industry.
 
 
- :book: Right now, I'm doing the Ironhack Bootcamp and currently working on learning ReactJS, NodeJS and other technologies for front and back end. 
+ :book:  Right now, I'm doing the Ironhack Bootcamp and currently working on learning ReactJS, NodeJS and other technologies for front and back end. 
  
  
 I like movies, games, books, all things narrative and also love to create!
@@ -57,5 +57,5 @@ I like movies, games, books, all things narrative and also love to create!
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
 
