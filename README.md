@@ -9,8 +9,11 @@
 <a target="_blank" href="mailto:tassia.accioly@gmail.com">
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
 <br>
+<br>
+
+![](https://www.codewars.com/users/tassiaaccioly/badges/micro)
+
 <br>
 
 **I'm a programmer on beta release!**
