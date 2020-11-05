@@ -1,4 +1,4 @@
-# Tassia Accioly
+# Hi, I'm Tassia Accioly
 
 <a target="_blank" href="https://www.linkedin.com/in/tassiaaccioly/">
   <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
