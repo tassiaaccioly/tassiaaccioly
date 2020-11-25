@@ -37,10 +37,10 @@ I like movies, games, books, all things narrative and also love to create!
 **If you want to see some of the things I've learned and made so far, check:**
 
 - [Die Verted - Game](https://tassiaaccioly.github.io/die-verted/) - Version 1.0-alpha 
-- [Canvas - Racing Game](https://github.com/tassiaaccioly/lab-canvas-race-car)
-- [Javascript Vikings](https://github.com/tassiaaccioly/lab-javascript-vikings)
-- [Javascript Chronometer](https://github.com/tassiaaccioly/lab-javascript-chronometer)
-- [DOM e-com Cart](https://github.com/tassiaaccioly/lab-dom-ironhack-cart)
+- [BitCoin Real Time Graph](https://github.com/tassiaaccioly/lab-react-data-graphing)
+- [Beer Finding App](https://github.com/tassiaaccioly/lab-react-ironbeers)
+- [Nutrition App](https://github.com/tassiaaccioly/lab-react-ironnutrition)
+- [Wiki Countries](https://github.com/tassiaaccioly/lab-wiki-countries)
 
 
 
