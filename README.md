@@ -37,6 +37,7 @@ I like movies, games, books, all things narrative and also love to create!
 **If you want to see some of the things I've learned and made so far, check:**
 
 - [Die Verted - Game](https://tassiaaccioly.github.io/die-verted/) - Version 1.0-alpha 
+- [Find a Flick](https://findaflick.vercel.app) - Find your favorite movies and Series and enjoy trailers and soundtracks in one place!
 - [BitCoin Real Time Graph](https://github.com/tassiaaccioly/lab-react-data-graphing)
 - [Beer Finding App](https://github.com/tassiaaccioly/lab-react-ironbeers)
 - [Nutrition App](https://github.com/tassiaaccioly/lab-react-ironnutrition)
