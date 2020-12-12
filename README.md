@@ -1,5 +1,17 @@
 # Hi, I'm Tassia Accioly
 
+<a target="_blank" href="https://www.linkedin.com/in/tassiaaccioly/">
+  <img align="center" alt="LinkdeIN" width="22px" src="./linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.twitter.com/itsmetherogue">
+  <img align="center" alt="Twitter" width="22px" src="./twitter.svg" />
+</a>
+<a target="_blank" href="mailto:tassia.accioly@gmail.com">
+  <img align="center" alt="Gmail" width="22px" src="./gmail.svg" />
+</a>
+<br>
+<br>
+
 
 ![](https://www.codewars.com/users/tassiaaccioly/badges/micro)
 
@@ -45,8 +57,8 @@ I like movies, games, books, all things narrative and also love to create!
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript)
-![ReactJS](https://img.shields.io/badge/-ReactJS-white?style=flat&logo=react&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
 
