@@ -57,6 +57,7 @@ I like movies, games, books, all things narrative and also love to create!
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react&logoColor=lightblue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
 
