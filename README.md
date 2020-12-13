@@ -59,8 +59,8 @@ I like movies, games, books, all things narrative and also love to create!
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-6EBF20style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248style=flat&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-6EBF20style=flat&style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248style=flat&style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
 
