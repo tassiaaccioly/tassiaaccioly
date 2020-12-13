@@ -59,12 +59,13 @@ I like movies, games, books, all things narrative and also love to create!
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-Nodejs-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDb-47A248?style=flat&logo=mongodb&logoColor=white)
 
-00D1B2
+8A4182
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
 
