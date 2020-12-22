@@ -54,7 +54,6 @@ I like movies, games, books, all things narrative and also love to create!
 
 ### Languages and Frameworks I know and Study
 
-![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
@@ -66,6 +65,7 @@ I like movies, games, books, all things narrative and also love to create!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-Nodejs-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDb-47A248?style=flat&logo=mongodb&logoColor=white)
+![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
