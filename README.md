@@ -35,14 +35,14 @@ I've always been a person that if I didn't know how to make something :mag: I'd 
 I like movies, games, books, all things narrative and also love to create!
 
 
-**If you want to see some of the things I've learned and made so far, check:**
+**If you want to see some highlights of my production so far, check:**
 
+- [IronNotes](https://github.com/tassiaaccioly/ironnotes-client)
 - [Die Verted - Game](https://tassiaaccioly.github.io/die-verted/) - Version 1.0-alpha 
 - [Find a Flick](https://findaflick.vercel.app) - Find your favorite movies and Series and enjoy trailers and soundtracks in one place!
 - [BitCoin Real Time Graph](https://github.com/tassiaaccioly/lab-react-data-graphing)
 - [Spotify Search App - with backend](https://github.com/tassiaaccioly/lab-express-spotify)
 - [Nutrition App](https://github.com/tassiaaccioly/lab-react-ironnutrition)
-- [Wiki Countries](https://github.com/tassiaaccioly/lab-wiki-countries)
 
 
 
