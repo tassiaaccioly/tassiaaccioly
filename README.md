@@ -7,6 +7,7 @@
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
 <br>
+<br>
 
 ![](https://www.codewars.com/users/tassiaaccioly/badges/micro)
 
@@ -17,19 +18,19 @@
 Hi! My name is Tassia and for a long time I've wanted to start programming. This quarantine I had an opportunity to focus on it and change my life completely!
 
 
-I've always been a person that if I didn't know how to make something :mag: I'd find out how to do it, so programming has been a perfect fit for me.
+I've always been a person that if I didn't know how to make something 🔎 I'd find out how to do it, so programming has been a perfect fit for me.
 
 
-:mortar_board:   I have a bachelor's degree on Movies and Audiovisual Studies   :movie_camera:   and previously was working as an assistant director, so naturally when I came to programming I wanted to be on the more narrative side of things, so my focus is to learn game development languages   :video_game:   in the future and enter the games and interactive media industry.
+🎓 I have a bachelor's degree on Movies and Audiovisual Studies 🎥 and previously was working as an assistant director, so naturally when I came to programming I wanted to be on the more narrative side of things, so my focus is to learn 🎮 game development languages in the future and enter the games and interactive media industry.
 
 
- :book:   I just graduated Ironhack's Web Dev Bootcamp and I'm hoping to enter the market in this new year of 2021 as a web dev!
+ 🎖️ I just graduated Ironhack's Web Dev Bootcamp and I'm hoping to enter the market in this new year of 2021 as a web dev!
  
  
 I like movies, games, books, all things narrative and also love to create!
 
 
-#### **If you want to see some highlights of my production so far, check:**
+### **If you want to see some highlights of my production so far, check:**
 
 - [IronNotes](https://github.com/tassiaaccioly/ironnotes-client)
 - [Die Verted - Game](https://tassiaaccioly.github.io/die-verted/) - Version 1.0-alpha 
@@ -39,7 +40,7 @@ I like movies, games, books, all things narrative and also love to create!
 - [Nutrition App](https://github.com/tassiaaccioly/lab-react-ironnutrition)
 
 
-#### **Latest Blogs:**
+### **Latest Articles:**
 - [How to make custom language badges for your profile](https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
 
 
