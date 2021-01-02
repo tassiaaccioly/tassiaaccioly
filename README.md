@@ -6,12 +6,9 @@
 [<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
-<br>
-<br>
 
 ![](https://www.codewars.com/users/tassiaaccioly/badges/micro)
 
-<br>
 
 ### **I'm a programmer on beta release!**
 
