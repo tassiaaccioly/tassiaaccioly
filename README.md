@@ -75,6 +75,6 @@ I like movies, games, books, all things narrative and also love to create!
 [medium]: https://tassiaaccioly.medium.com/
 
  <a href="https://badges.pufler.dev">
-      <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly" alt="Visitors badge" />
+      <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
    </a>
 
