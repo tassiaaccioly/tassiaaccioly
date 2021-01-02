@@ -4,8 +4,9 @@
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
 
+<br>
+<br>
 <br>
 
 
