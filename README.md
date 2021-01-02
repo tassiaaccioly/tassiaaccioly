@@ -3,6 +3,7 @@
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
 <br>
@@ -38,6 +39,10 @@ I like movies, games, books, all things narrative and also love to create!
 - [BitCoin Real Time Graph](https://github.com/tassiaaccioly/lab-react-data-graphing)
 - [Spotify Search App - with backend](https://github.com/tassiaaccioly/lab-express-spotify)
 - [Nutrition App](https://github.com/tassiaaccioly/lab-react-ironnutrition)
+
+
+**Latest Blogs**
+- [How to make custom language badges for your profile](https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
 
 
 
