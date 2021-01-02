@@ -2,8 +2,8 @@
 
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
+[<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
 <br>
@@ -13,7 +13,7 @@
 
 <br>
 
-**I'm a programmer on beta release!**
+### **I'm a programmer on beta release!**
 
 
 Hi! My name is Tassia and for a long time I've wanted to start programming. This quarantine I had an opportunity to focus on it and change my life completely!
@@ -31,7 +31,7 @@ I've always been a person that if I didn't know how to make something :mag: I'd 
 I like movies, games, books, all things narrative and also love to create!
 
 
-**If you want to see some highlights of my production so far, check:**
+#### **If you want to see some highlights of my production so far, check:**
 
 - [IronNotes](https://github.com/tassiaaccioly/ironnotes-client)
 - [Die Verted - Game](https://tassiaaccioly.github.io/die-verted/) - Version 1.0-alpha 
@@ -41,7 +41,7 @@ I like movies, games, books, all things narrative and also love to create!
 - [Nutrition App](https://github.com/tassiaaccioly/lab-react-ironnutrition)
 
 
-**Latest Blogs**
+#### **Latest Blogs:**
 - [How to make custom language badges for your profile](https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
 
 
