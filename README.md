@@ -1,5 +1,11 @@
 # Hi, I'm Tassia Accioly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly" alt="Visitors badge" />
+   </a>
+</p>
+
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
