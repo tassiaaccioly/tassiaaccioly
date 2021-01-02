@@ -1,15 +1,11 @@
-# Hi, I'm Tassia Accioly
+# Hi, I'm Tassia Accioly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a target="_blank" href="https://www.linkedin.com/in/tassiaaccioly/">
-  <img align="center" alt="LinkdeIN" width="22px" src="./linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.twitter.com/itsmetherogue">
-  <img align="center" alt="Twitter" width="22px" src="./twitter.svg" />
-</a>
-<a target="_blank" href="mailto:tassia.accioly@gmail.com">
-  <img align="center" alt="Gmail" width="22px" src="./gmail.svg" />
-</a>
-<br>
+
+[<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
+
 <br>
 
 
@@ -69,4 +65,9 @@ I like movies, games, books, all things narrative and also love to create!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
+
+[linkedin]: https://www.linkedin.com/in/tassiaaccioly/
+[twitter]: https://www.twitter.com/itsmetherogue/
+[gmail]: mailto:tassia.accioly@gmail.com
+[medium]: https://tassiaaccioly.medium.com/
 
