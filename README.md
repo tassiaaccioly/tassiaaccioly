@@ -7,8 +7,6 @@
 
 <br>
 <br>
-<br>
-
 
 ![](https://www.codewars.com/users/tassiaaccioly/badges/micro)
 
