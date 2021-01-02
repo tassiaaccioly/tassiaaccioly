@@ -1,11 +1,5 @@
 # Hi, I'm Tassia Accioly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly" alt="Visitors badge" />
-   </a>
-</p>
-
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
@@ -62,7 +56,7 @@ I like movies, games, books, all things narrative and also love to create!
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -79,4 +73,8 @@ I like movies, games, books, all things narrative and also love to create!
 [twitter]: https://www.twitter.com/itsmetherogue/
 [gmail]: mailto:tassia.accioly@gmail.com
 [medium]: https://tassiaaccioly.medium.com/
+
+ <a href="https://badges.pufler.dev">
+      <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly" alt="Visitors badge" />
+   </a>
 
