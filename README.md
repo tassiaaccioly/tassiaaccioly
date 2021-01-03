@@ -41,6 +41,7 @@ I like movies, games, books, all things narrative and also love to create!
 
 
 ### **Latest Articles:**
+- [7 Tips to make your GitHub profile better](https://tassiaaccioly.medium.com/7-tips-to-make-your-github-profile-better-3913971c357d)
 - [How to make custom language badges for your profile](https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
 
 
