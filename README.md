@@ -12,7 +12,7 @@
 ![](https://www.codewars.com/users/tassiaaccioly/badges/micro)
 
 
-### **I'm a programmer on beta release!**
+### **I'm a programmer on beta testing!**
 
 
 Hi! My name is Tassia and for a long time I've wanted to start programming. This quarantine I had an opportunity to focus on it and change my life completely!
