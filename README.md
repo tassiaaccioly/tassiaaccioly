@@ -19,13 +19,13 @@
 Hi! My name is Tassia and for a long time I've wanted to start programming. This quarantine I had an opportunity to focus on it and change my life completely!
 
 
-I've always been a person that if I didn't know how to make something 🔎 I'd find out how to do it, so programming has been a perfect fit for me.
+I've always been a person that if I didn't know how to make something      🔎      I'd find out how to do it, so programming has been a perfect fit for me.
 
 
-🎓 I have a bachelor's degree on Movies and Audiovisual Studies 🎥 and previously was working as an assistant director, so naturally when I came to programming I wanted to be on the more narrative side of things, so my focus is to learn 🎮 game development languages in the future and enter the games and interactive media industry.
+🎓      I have a bachelor's degree on Movies and Audiovisual Studies      🎥      and previously was working as an assistant director, so naturally when I came to programming I wanted to be on the more narrative side of things, so my focus is to learn      🎮      game development languages in the future and enter the games and interactive media industry.
 
 
- 🎖️ I just graduated Ironhack's Web Dev Bootcamp and I'm hoping to enter the market in this new year of 2021 as a web dev!
+ 🎖️      I just graduated Ironhack's Web Dev Bootcamp and I'm hoping to enter the market in this new year of 2021 as a web dev!
  
  
 I like movies, games, books, all things narrative and also love to create!
@@ -37,11 +37,14 @@ I like movies, games, books, all things narrative and also love to create!
 - [Die Verted - Game](https://tassiaaccioly.github.io/die-verted/) - Version 1.0-alpha 
 - [Find a Flick](https://findaflick.vercel.app) - Find your favorite movies and Series and enjoy trailers and soundtracks in one place!
 - [BitCoin Real Time Graph](https://github.com/tassiaaccioly/lab-react-data-graphing)
-- [Spotify Search App - with backend](https://github.com/tassiaaccioly/lab-express-spotify)
+- [Spotify Search App](https://spotify-albuns.herokuapp.com/)
 - [Nutrition App](https://github.com/tassiaaccioly/lab-react-ironnutrition)
 
 
 ### **Latest Articles:**
+
+📝      I'm a writer for [JavaScript in Plain English](https://medium.com/javascript-in-plain-english) and [Analytics Vidhya](https://www.analyticsvidhya.com/) over on Medium!
+
 - [7 Tips to make your GitHub profile better](https://tassiaaccioly.medium.com/7-tips-to-make-your-github-profile-better-3913971c357d)
 - [5 Steps to make custom language badges for your profile](https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
 
