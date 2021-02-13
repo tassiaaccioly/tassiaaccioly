@@ -56,7 +56,7 @@ I like movies, games, books, all things narrative and also love to create!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
 
 
-### My Tecnologies:
+### My Stack
 
 #### Languages:
 
@@ -80,7 +80,7 @@ I like movies, games, books, all things narrative and also love to create!
 ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-#### UX/UI
+#### UX/UI:
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
