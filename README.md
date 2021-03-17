@@ -33,12 +33,12 @@ I like movies, games, books, all things narrative and also love to create!
 
 ### **If you want to see some highlights of my production so far, check:**
 
+- [Move It - Pomodoro Clock](https://moveit-pomodoro-clock.vercel.app/)
 - [IronNotes](https://github.com/tassiaaccioly/ironnotes-client)
 - [Die Verted - Game](https://tassiaaccioly.github.io/die-verted/) - Version 1.0-alpha 
 - [Find a Flick](https://findaflick.vercel.app) - Find your favorite movies and Series and enjoy trailers and soundtracks in one place!
 - [BitCoin Real Time Graph](https://github.com/tassiaaccioly/lab-react-data-graphing)
 - [Spotify Search App](https://spotify-albuns.herokuapp.com/)
-- [Nutrition App](https://github.com/tassiaaccioly/lab-react-ironnutrition)
 
 
 ### **Latest Articles:**
@@ -104,6 +104,7 @@ I like movies, games, books, all things narrative and also love to create!
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
