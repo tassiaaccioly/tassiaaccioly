@@ -25,7 +25,7 @@ I've always been a person that if I didn't know how to make something      🔎 
 🎓      I have a bachelor's degree on Movies and Audiovisual Studies      🎥      and previously was working as an assistant director, so naturally when I came to programming I wanted to be on the more narrative side of things, so my focus is to learn      🎮      game development languages in the future and enter the games and interactive media industry.
 
 
- 🎖️      I just graduated Ironhack's Web Dev Bootcamp and I'm hoping to enter the market in this new year of 2021 as a web dev!
+ 🎖️      I recently graduated Ironhack's Bootcamp and now I'm working as a Associate Software Engineer at Carta!
  
  
 I like movies, games, books, all things narrative and also love to create!
@@ -83,6 +83,7 @@ I like movies, games, books, all things narrative and also love to create!
 #### UX/UI:
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
@@ -104,7 +105,7 @@ I like movies, games, books, all things narrative and also love to create!
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
+
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
