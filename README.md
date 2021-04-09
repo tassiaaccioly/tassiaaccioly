@@ -25,7 +25,7 @@ I've always been a person that if I didn't know how to make something      🔎 
 🎓      I have a bachelor's degree on Movies and Audiovisual Studies      🎥      and previously was working as an assistant director, so naturally when I came to programming I wanted to be on the more narrative side of things, so my focus is to learn      🎮      game development languages in the future and enter the games and interactive media industry.
 
 
- 🎖️      I recently graduated Ironhack's Bootcamp and now I'm working as a Associate Software Engineer at Carta!
+ 🎖️      I recently graduated Ironhack's Bootcamp and now I'm working as an Associate Software Engineer at Carta!
  
  
 I like movies, games, books, all things narrative and also love to create!
