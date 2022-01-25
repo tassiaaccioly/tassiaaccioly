@@ -16,28 +16,26 @@
 ### **I'm a programmer on beta testing!**
 
 
-Hi! My name is Tassia and for a long time I've wanted to start programming. This quarantine I had an opportunity to focus on it and change my life completely!
+Hi! My name is Tassia and I've been a programmer for about a year.
 
 
 I've always been a person that if I didn't know how to make something      🔎      I'd find out how to do it, so programming has been a perfect fit for me.
 
 
-🎓      I have a bachelor's degree on Movies and Audiovisual Studies      🎥      and previously was working as an assistant director, so naturally when I came to programming I wanted to be on the more narrative side of things, so my focus is to learn      🎮      game development languages in the future and enter the games and interactive media industry.
+🎓      I have a bachelor's degree on Movies and Audiovisual Studies      🎥      and previously was working as an assistant director for companies such as Netflix, Fox Premium and L'Orèal. I also graduated from Ironhack Bootcamp. I love movies, games, books, rpgs and everything narrative. I've been studying game development as a hobbie. I love being creative and telling stories. 
 
 
- 🎖️      I recently graduated Ironhack's Bootcamp and now I'm working as an Associate Software Engineer at Carta!
- 
- 
-I like movies, games, books, all things narrative and also love to create!
+💻      I work at Carta as a software engineer on their Design System [Ink](https://ink.carta.com)!
+
 
 
 ### **If you want to see some highlights of my production so far, check:**
 
+- [Ink Design System](https://ink.carta.com)
 - [Move It - Pomodoro Clock](https://moveit-pomodoro-clock.vercel.app/)
 - [IronNotes](https://github.com/tassiaaccioly/ironnotes-client)
 - [Die Verted - Game](https://tassiaaccioly.github.io/die-verted/) - Version 1.0-alpha 
 - [Find a Flick](https://findaflick.vercel.app) - Find your favorite movies and Series and enjoy trailers and soundtracks in one place!
-- [BitCoin Real Time Graph](https://github.com/tassiaaccioly/lab-react-data-graphing)
 - [Spotify Search App](https://spotify-albuns.herokuapp.com/)
 
 
@@ -45,6 +43,7 @@ I like movies, games, books, all things narrative and also love to create!
 
 📝      I'm a writer for [JavaScript in Plain English](https://medium.com/javascript-in-plain-english) and [Analytics Vidhya](https://www.analyticsvidhya.com/) over on Medium!
 
+- [5 lessons I learned in my first year as a programmer](https://tassiaaccioly.medium.com/5-lessons-i-learned-in-my-first-year-as-a-programmer-403e2b64cfbe)
 - [7 Tips to make your GitHub profile better](https://tassiaaccioly.medium.com/7-tips-to-make-your-github-profile-better-3913971c357d)
 - [5 Steps to make custom language badges for your profile](https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
 
@@ -61,6 +60,7 @@ I like movies, games, books, all things narrative and also love to create!
 #### Languages:
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
@@ -72,13 +72,17 @@ I like movies, games, books, all things narrative and also love to create!
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown&logoColor=white)
+
+#### QA & Testing
+
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-e9554d?style=flat&logo=octopusdeploy&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 
 #### UX/UI:
 
@@ -94,11 +98,13 @@ I like movies, games, books, all things narrative and also love to create!
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![ASTExplorer](https://img.shields.io/badge/-ASTExplorer-343434?style=flat&logo=javascript&logoColor=white)
 
 #### DevOps:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white)
 
 #### Business:
 
