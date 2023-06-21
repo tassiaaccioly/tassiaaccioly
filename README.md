@@ -13,10 +13,7 @@
 ![](https://www.codewars.com/users/tassiaaccioly/badges/micro)
 
 
-### **I'm a programmer on beta testing!**
-
-
-Hi! My name is Tassia and I've been a programmer for about a year.
+Hi! My name is Tassia and I've been a programmer for a little over two years.
 
 
 I've always been a person that if I didn't know how to make something      🔎      I'd find out how to do it, so programming has been a perfect fit for me.
@@ -43,10 +40,11 @@ I've always been a person that if I didn't know how to make something      🔎 
 
 📝      I'm a writer for [JavaScript in Plain English](https://medium.com/javascript-in-plain-english) and [Analytics Vidhya](https://www.analyticsvidhya.com/) over on Medium!
 
+- [You got your first job, and now what?](https://dev.to/tassiaaccioly/you-got-your-first-job-and-now-what-4hoj)
 - [5 lessons I learned in my first year as a programmer](https://tassiaaccioly.medium.com/5-lessons-i-learned-in-my-first-year-as-a-programmer-403e2b64cfbe)
 - [7 Tips to make your GitHub profile better](https://tassiaaccioly.medium.com/7-tips-to-make-your-github-profile-better-3913971c357d)
-- [5 Steps to make custom language badges for your profile](https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
 
+In 2022, I was featured on dev.to's [Top 7 featured DEV posts from the past week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-41f0)
 
 
 ### GitHub Stats
@@ -62,20 +60,16 @@ I've always been a person that if I didn't know how to make something      🔎 
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 #### Application and Data:
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
-![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
-![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![Sass|Scss](https://img.shields.io/badge/-Sass%7CScss-CC6699?style=flat&logo=sass&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/-Tidyverse-1A162D?style=flat&logo=tidyverse&logoColor=white)
 
 #### QA & Testing
 
@@ -96,8 +90,8 @@ I've always been a person that if I didn't know how to make something      🔎 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![ASTExplorer](https://img.shields.io/badge/-ASTExplorer-343434?style=flat&logo=javascript&logoColor=white)
 
 #### DevOps:
@@ -108,6 +102,7 @@ I've always been a person that if I didn't know how to make something      🔎 
 
 #### Business:
 
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
