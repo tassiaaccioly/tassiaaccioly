@@ -2,7 +2,6 @@
 
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
 [<img align="left" alt="tassiaaccioly | Dev.to" width="22px" src="./dev-dot-to.svg" />][devto]
@@ -10,7 +9,7 @@
 <br>
 <br>
 
-I'm Experienced Software Engineer with 3+ Years in Frontend Development and Design Systems. As a multilingual software engineer (proficient in Portuguese, Spanish, and English), I bring over three years of expertise in creating and optimizing design systems and frontend architectures. I thrive in multicultural, international teams, contributing both creativity and organizational skills to drive projects' success.
+I'm Experienced Software Engineer with 5+ Years in Frontend Development and Design Systems. As a multilingual software engineer (proficient in Portuguese, English, and Spanish), I bring expertise in creating and optimizing design systems and frontend architectures. I thrive in multicultural, international teams, contributing both creativity and organizational skills to drive projects' success.
 
 ## **If you want to see some highlights of my production so far, check:**
 
@@ -60,7 +59,6 @@ In 2022, I was featured on dev.to's [Top 7 featured DEV posts from the past week
  </a>
 
 [linkedin]: https://www.linkedin.com/in/tassiaaccioly/
-[twitter]: https://www.twitter.com/itsmetherogue/
 [gmail]: mailto:tassia.accioly@gmail.com
 [medium]: https://tassiaaccioly.medium.com/
 [devto]: https://dev.to/tassiaaccioly
