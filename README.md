@@ -38,7 +38,8 @@ In 2022, I was featured on dev.to's [Top 7 featured DEV posts from the past week
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
 
 
-<img width="1250" alt="Screenshot 2024-10-03 at 12 30 23" src="https://github.com/user-attachments/assets/d01bff07-2bc7-4d55-9b51-65d92eea1fac">
+<img width="966" height="578" alt="Screenshot 2026-06-01 at 14 10 28" src="https://github.com/user-attachments/assets/b885ff11-e7c0-4e7a-b554-9000dd9a19cc" />
+
 
 
 ### My Stack
