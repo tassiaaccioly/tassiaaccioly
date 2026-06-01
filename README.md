@@ -33,12 +33,7 @@ In 2022, I was featured on dev.to's [Top 7 featured DEV posts from the past week
 
 ## GitHub Stats
 
-![Tassia Accioly's github stats](https://github-readme-stats.vercel.app/api?username=tassiaaccioly&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
-
-
 <img width="966" height="578" alt="Screenshot 2026-06-01 at 14 10 28" src="https://github.com/user-attachments/assets/b885ff11-e7c0-4e7a-b554-9000dd9a19cc" />
-
 
 
 ### My Stack
