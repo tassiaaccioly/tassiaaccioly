@@ -33,7 +33,8 @@ In 2022, I was featured on dev.to's [Top 7 featured DEV posts from the past week
 
 ## GitHub Stats
 
-<img width="966" height="578" alt="Screenshot 2026-06-01 at 14 10 28" src="https://github.com/user-attachments/assets/b885ff11-e7c0-4e7a-b554-9000dd9a19cc" />
+<img width="955" height="573" alt="Screenshot 2026-08-17 at 18 07 39" src="https://github.com/user-attachments/assets/96a7ab05-07bd-497e-953d-f3bcf3f6c9a2" />
+
 
 
 ### My Stack
